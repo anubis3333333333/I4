@@ -25,14 +25,14 @@
 Ниже представлена итоговая древовидная структура каталогов и файлов репозитория, созданная в ходе выполнения работы через терминал:
 
 ```text
-Lab4_ISRPO_FIO
+i4
 ├── client/
 │   ├── about.html
 │   └── index.html
 ├── docs/
 │   ├── latex_examples.md
 │   └── markdown_examples.md
-├
+├── img
 ├── server/
 │   └── program.cs
 ├── terminal_practice/
